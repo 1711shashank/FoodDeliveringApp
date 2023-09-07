@@ -1,13 +1,13 @@
 {
-  "name": "swiggy-clone",
+  "name": "my-swiggy",
   "version": "1.0.0",
-  "description": "",
+  "description": "swiggy clone",
   "scripts": {
     "start": "parcel index.html",
     "build": "parcel build index.html",
     "test": "jest"
   },
-  "author": "",
+  "author": "Deepak",
   "license": "ISC",
   "dependencies": {
     "@headlessui/react": "^1.7.15",
@@ -16,7 +16,7 @@
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-icons": "^4.10.1",
-    "react-redux": "^8.1.2",
+    "react-redux": "^8.1.1",
     "react-router-dom": "^6.14.0"
   },
   "devDependencies": {
